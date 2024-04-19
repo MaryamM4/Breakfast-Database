@@ -1,5 +1,5 @@
 # Breakfast-Database (Team Project)
-## CSS 475 A (Database Systems) 2024 Course
+CSS 475 A (Database Systems) 2024 Course
 Maryam and Aisha Maabreh
 
 Breakfast website/ eCookbook. 
